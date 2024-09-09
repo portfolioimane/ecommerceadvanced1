@@ -1,0 +1,27 @@
+# Laravel & PHP
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+
+# IDE & editor files
+/.idea
+/.vscode
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Composer
+composer.lock
+
+# NPM
+package-lock.json
